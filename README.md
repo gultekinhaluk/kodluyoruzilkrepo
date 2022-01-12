@@ -1,8 +1,15 @@
 # kodluyoruzilkrepo
-Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Git egitimimizde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
-![kodluyoruzresim](Screenshot 2022-01-12 133645.png)
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Git egitimimizde olusturdugumuz ilk repo.
+Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
-##Installation
+![kodluyoruzresim](screenshotilkrepo.png "ilkphoto")
+
+## Installation
+---
 Oncelikle projeyi clonelayin.
 
-```https://github.com/gultekinhaluk/kodluyoruzilkrepo.git
+```
+https://github.com/gultekinhaluk/kodluyoruzilkrepo.git
+```
+## Usage
+---
